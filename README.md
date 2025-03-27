@@ -13,11 +13,3 @@ This project is a simple web application to scrape Amazon product listings from 
 
 - [Bun](https://bun.sh/) installed on your system.
 - [Node.js](https://nodejs.org/) (if needed for Vite).
-
-## Setup and Running Instructions
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/amazon-scraper.git
-cd amazon-scraper
